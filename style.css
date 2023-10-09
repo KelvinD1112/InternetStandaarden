@@ -55,6 +55,10 @@ section {
   font-size: 1.1em;
 }
 
+footer a {
+  color: #e6e6e6;
+}
+
 section a {
   display: flex;
   justify-content: end;
